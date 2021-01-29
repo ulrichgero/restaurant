@@ -1,0 +1,22 @@
+html *{ font-family: 'Montserrat', sans-serif;}
+body {background-color: rgb(255, 248, 240);}
+.slice {padding-top: 120px; padding-bottom: 120px;}
+.slicel {padding-top: 180px; padding-bottom: 180px;}
+.slicexm {padding-top: 60px; padding-bottom: 60px;}
+.hero {
+    background-image: url("/static/img/hero-bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: aliceblue;
+   
+    
+}
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 0%;
+}
+.menu {
+    background-color: #FBE9DA;
+}
